@@ -26,3 +26,4 @@ insert into books.bookTypes (id, bookNames, publisher)
 values ("PY10", "physical education", "Kim Dong");
 
 select *from books.bookTypes;
+select ++++++++;
